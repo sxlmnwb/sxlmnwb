@@ -25,9 +25,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <br>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img width="50%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
