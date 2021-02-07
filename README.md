@@ -13,14 +13,14 @@
 <a href="mailto:sxlmnwb.uwu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 <a href="https://t.me/sxlmnwb"> <img src="https://img.shields.io/badge/-Telegram-4682B4?style=flat&logo=Telegram" /></p></a>
 
-**Languages And Tools:** 
+<a href="https://github.com/sxlmnwb">
+    <img width="55%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=synthwave" />
+  </a>
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/sxlmnwb">
-    <img width="55%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=synthwave" />
-  </a>
+  
   
 </p>
