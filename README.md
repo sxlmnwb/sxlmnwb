@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img width="50%" src="https://i.kym-cdn.com/photos/images/original/001/866/186/375.gif">
+  <img width="35%" src="https://i.kym-cdn.com/photos/images/original/001/866/186/375.gif">
   <br>
 </p>
 
