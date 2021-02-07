@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://tenor.com/beMkv.gif"><br>
+  <img src="https://media1.tenor.com/images/1d974f8fdfc6b27b2fe196a66b1c9728/tenor.gif?itemid=15876361"><br>
 </p>
 
 ---
