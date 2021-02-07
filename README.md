@@ -22,6 +22,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
   <a href="https://github.com/sxlmnwb">
     <img width="50%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=buefy" />
-  <br>
+  </a>
   <img width="40%" align="left" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlmnwb&layout=compact&theme=buefy" />
 </p>
