@@ -14,7 +14,7 @@
 <a href="https://t.me/sxlmnwb"> <img src="https://img.shields.io/badge/-Telegram-4682B4?style=flat&logo=Telegram" /></p></a>
 
 <a href="https://github.com/sxlmnwb">
-    <img width="55%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=synthwave" />
+    <img width="55%" align="center" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=synthwave" />
 
 
 <!-- Your github readme stats
