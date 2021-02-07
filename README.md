@@ -1,13 +1,11 @@
 <!-- Your title -->
 ## Hi, I'm Salman Wahib.
 
----
 <p align="center">
   <img width="25%" src="https://i.kym-cdn.com/photos/images/original/001/866/186/375.gif">
   <br>
 </p>
 
----
 <p align="center">
 <a href="https://github.com/sxlmnwb"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.instagram.com/sxlmnwb"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
