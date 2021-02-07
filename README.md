@@ -23,5 +23,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=synthwave" />
   </a>
   
-  <img width="55%" align="left" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlmnwb&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img width="40%" align="left" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlmnwb&layout=compact" />
 </p>
