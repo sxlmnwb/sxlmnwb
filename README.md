@@ -24,4 +24,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
   
   <img width="40%" align="left" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlmnwb&layout=compact&theme=calm" />
+  <br>
+  <img width="10%" src="https://media.giphy.com/media/UITR7RbSJNDX4zZLRV/giphy.gif">
 </p>
