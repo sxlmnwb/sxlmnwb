@@ -19,6 +19,5 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&bg_color=30,e96443,904e95&title_color=fad000&text_color=75eeb2&icon_clor=0480ef">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlmnwb&layout=compact&bg_color=30,e96443,904e95&title_color=fad000&text_color=75eeb2&icon_clor=0480ef&langs_count=8">
-<p align="center"><img width="100" src="https://komarev.com/ghpvc/?username=sxlmnwb&color=green&style=flat-square&label=Visitors" alt="dinesh-ysl"></p>
+
+<p align="center"><img width="100" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=radical"></p>
