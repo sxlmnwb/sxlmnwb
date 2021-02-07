@@ -15,7 +15,7 @@
 
 <a href="https://github.com/sxlmnwb">
     <img width="55%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=synthwave" />
-  </a>
+
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
