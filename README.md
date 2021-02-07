@@ -20,8 +20,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/sxlmnwb">
-    <img width="55%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=synthwave" />
+    <img width="50%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=calm" />
   </a>
   
-  <img width="40%" align="left" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlmnwb&layout=compact&theme=synthwave" />
+  <img width="40%" align="left" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlmnwb&layout=compact&theme=calm" />
 </p>
