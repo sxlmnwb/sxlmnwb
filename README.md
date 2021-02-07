@@ -20,10 +20,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/sxlmnwb">
-    <img width="40%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=synthwave" />
+    <img width="50%" align="right" alt="sxlmnwb github stats" src="https://github-readme-stats.vercel.app/api?username=sxlmnwb&show_icons=true&theme=synthwave" />
   </a>
    <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="50%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="30%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
