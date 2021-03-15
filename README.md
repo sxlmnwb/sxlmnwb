@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/sxlmnwb"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.instagram.com/sxlmnwb"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
-<a href="mailto:sxlmnwb.uwu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+<a href="mailto:sxlmnwb.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 <a href="https://t.me/sxlmnwb"> <img src="https://img.shields.io/badge/-Telegram-4682B4?style=flat&logo=Telegram" /></p></a>
 
 
